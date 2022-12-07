@@ -2,4 +2,4 @@
 !*/
 !.gitignore
 !*/input.txt
-!*/main.f90
+!*/*.f90
